@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "umkm-retail-analytics-engine"
+version = "0.1.0"
+description = "A technical portfolio showcase demonstrating Python-based retail data cleaning, validation, analytics, and reporting concepts on synthetic UMKM data."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    {name = "bacadataku"}
+]
+keywords = [
+    "retail-analytics",
+    "data-engineering",
+    "portfolio-showcase",
+    "umkm",
+    "rfm-segmentation",
+    "market-basket-analysis",
+    "data-quality"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business :: Financial :: Point-Of-Sale",
+    "Topic :: Scientific/Engineering :: Information Analysis"
+]
+dependencies = [
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    "numpy>=1.24.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0"
+]
+
+[project.scripts]
+retail-analytics = "retail_analytics.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --strict-markers"
+

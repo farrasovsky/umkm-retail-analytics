@@ -1,0 +1,31 @@
+product_id,sku,product_name,category,default_unit_price,sku_aliases
+PRD-0001,SKU-0001,Beras Premium 5kg,Kebutuhan Pokok,72000,SKU0001;BERAS5KG
+PRD-0002,SKU-0002,Minyak Goreng Sawit 2L,Kebutuhan Pokok,35000,SKU0002;MINYAK2L
+PRD-0003,SKU-0003,Gula Pasir 1kg,Kebutuhan Pokok,17500,SKU0003;GULA1KG
+PRD-0004,SKU-0004,Telur Ayam 1kg,Kebutuhan Pokok,28000,SKU0004;TELUR1KG
+PRD-0005,SKU-0005,Mi Instan Goreng 85g,Makanan & Minuman,3500,SKU0005;MIGORENG
+PRD-0006,SKU-0006,Mi Instan Kuah Soto 75g,Makanan & Minuman,3500,SKU0006;MISOTO
+PRD-0007,SKU-0007,Kopi Susu Instant 10x20g,Makanan & Minuman,15000,SKU0007;KOPISUSU
+PRD-0008,SKU-0008,Teh Celup Melati 25s,Makanan & Minuman,8500,SKU0008;TEHMELATI
+PRD-0009,SKU-0009,Susu UHT Cokelat 250ml,Makanan & Minuman,6500,SKU0009;SUSUUHT
+PRD-0010,SKU-0010,Biskuit Gandum 200g,Camilan & Snack,12000,SKU0010;BISKUIT
+PRD-0011,SKU-0011,Wafer Cokelat 145g,Camilan & Snack,9500,SKU0011;WAFER
+PRD-0012,SKU-0012,Keripik Singkong Balado 150g,Camilan & Snack,14000,SKU0012;KERIPIK
+PRD-0013,SKU-0013,Kacang Kulit Gurih 200g,Camilan & Snack,16500,SKU0013;KACANG
+PRD-0014,SKU-0014,Sabun Mandi Cair 450ml,Perawatan Diri,24500,SKU0014;SABUNCAIR
+PRD-0015,SKU-0015,Shampoo Anti Ketombe 160ml,Perawatan Diri,26000,SKU0015;SHAMPOO
+PRD-0016,SKU-0016,Pasta Gigi Herbal 190g,Perawatan Diri,18500,SKU0016;PASTAGIGI
+PRD-0017,SKU-0017,Sikat Gigi Charcoal 3s,Perawatan Diri,21000,SKU0017;SIKATGIGI
+PRD-0018,SKU-0018,Sabun Cuci Piring Jeruk Nipis 750ml,Perlengkapan Rumah,14500,SKU0018;CUCIPIRING
+PRD-0019,SKU-0019,Deterjen Bubuk Konsentrat 800g,Perlengkapan Rumah,22000,SKU0019;DETERJEN
+PRD-0020,SKU-0020,Pembersih Lantai Lavender 750ml,Perlengkapan Rumah,13500,SKU0020;PEL
+PRD-0021,SKU-0021,Tisu Wajah 250 Sheets,Perlengkapan Rumah,15500,SKU0021;TISU
+PRD-0022,SKU-0022,Kantong Sampah Roll 24s,Perlengkapan Rumah,16000,SKU0022;TRASHBAG
+PRD-0023,SKU-0023,Saus Sambal Botol 335ml,Makanan & Minuman,15000,SKU0023;SAUSSAMBAL
+PRD-0024,SKU-0024,Kecap Manis Refill 550ml,Makanan & Minuman,21500,SKU0024;KECAP
+PRD-0025,SKU-0025,Mentega Serbaguna 200g,Kebutuhan Pokok,11500,SKU0025;MENTEGA
+PRD-0026,SKU-0026,Tepung Terigu Serbaguna 1kg,Kebutuhan Pokok,13000,SKU0026;TEPUNG
+PRD-0027,SKU-0027,Garam Beryodium 250g,Kebutuhan Pokok,4000,SKU0027;GARAM
+PRD-0028,SKU-0028,Air Mineral Galon 19L,Makanan & Minuman,22000,SKU0028;GALON
+PRD-0029,SKU-0029,Air Mineral Botol 600ml,Makanan & Minuman,4000,SKU0029;AIR600
+PRD-0030,SKU-0030,Minuman Isotonik 500ml,Makanan & Minuman,7500,SKU0030;ISOTONIK

@@ -1,0 +1,31 @@
+product_id,sku,product_name,category,stock_on_hand,reorder_point,unit_cost
+PRD-0001,SKU-0001,Beras Premium 5kg,Kebutuhan Pokok,12,16,56160
+PRD-0002,SKU-0002,Minyak Goreng Sawit 2L,Kebutuhan Pokok,2,19,27300
+PRD-0003,SKU-0003,Gula Pasir 1kg,Kebutuhan Pokok,19,20,13650
+PRD-0004,SKU-0004,Telur Ayam 1kg,Kebutuhan Pokok,49,12,21840
+PRD-0005,SKU-0005,Mi Instan Goreng 85g,Makanan & Minuman,3,25,2730
+PRD-0006,SKU-0006,Mi Instan Kuah Soto 75g,Makanan & Minuman,82,18,2730
+PRD-0007,SKU-0007,Kopi Susu Instant 10x20g,Makanan & Minuman,40,19,11700
+PRD-0008,SKU-0008,Teh Celup Melati 25s,Makanan & Minuman,22,20,6630
+PRD-0009,SKU-0009,Susu UHT Cokelat 250ml,Makanan & Minuman,37,10,5070
+PRD-0010,SKU-0010,Biskuit Gandum 200g,Camilan & Snack,40,13,9360
+PRD-0011,SKU-0011,Wafer Cokelat 145g,Camilan & Snack,49,18,7410
+PRD-0012,SKU-0012,Keripik Singkong Balado 150g,Camilan & Snack,197,15,10920
+PRD-0013,SKU-0013,Kacang Kulit Gurih 200g,Camilan & Snack,36,18,12870
+PRD-0014,SKU-0014,Sabun Mandi Cair 450ml,Perawatan Diri,5,25,19110
+PRD-0015,SKU-0015,Shampoo Anti Ketombe 160ml,Perawatan Diri,27,20,20280
+PRD-0016,SKU-0016,Pasta Gigi Herbal 190g,Perawatan Diri,69,16,14430
+PRD-0017,SKU-0017,Sikat Gigi Charcoal 3s,Perawatan Diri,49,17,16380
+PRD-0018,SKU-0018,Sabun Cuci Piring Jeruk Nipis 750ml,Perlengkapan Rumah,72,14,11310
+PRD-0019,SKU-0019,Deterjen Bubuk Konsentrat 800g,Perlengkapan Rumah,28,20,17160
+PRD-0020,SKU-0020,Pembersih Lantai Lavender 750ml,Perlengkapan Rumah,90,10,10530
+PRD-0021,SKU-0021,Tisu Wajah 250 Sheets,Perlengkapan Rumah,140,15,12090
+PRD-0022,SKU-0022,Kantong Sampah Roll 24s,Perlengkapan Rumah,174,15,12480
+PRD-0023,SKU-0023,Saus Sambal Botol 335ml,Makanan & Minuman,56,14,11700
+PRD-0024,SKU-0024,Kecap Manis Refill 550ml,Makanan & Minuman,44,13,16770
+PRD-0025,SKU-0025,Mentega Serbaguna 200g,Kebutuhan Pokok,83,15,8970
+PRD-0026,SKU-0026,Tepung Terigu Serbaguna 1kg,Kebutuhan Pokok,41,11,10140
+PRD-0027,SKU-0027,Garam Beryodium 250g,Kebutuhan Pokok,59,11,3120
+PRD-0028,SKU-0028,Air Mineral Galon 19L,Makanan & Minuman,57,15,17160
+PRD-0029,SKU-0029,Air Mineral Botol 600ml,Makanan & Minuman,73,14,3120
+PRD-0030,SKU-0030,Minuman Isotonik 500ml,Makanan & Minuman,86,10,5850
